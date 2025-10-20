@@ -33,13 +33,12 @@ Permite **usar palabras predefinidas o cargarlas desde un archivo externo**.
 
 2. Compila el archivo Java:
    ```bash
-javac JuegoAhorcado.java
+   javac JuegoAhorcado.java
    ```
-
 
 4. Ejecuta el programa:
    ```bash
-java Ahorcado
+   java Ahorcado
    ```
 
 ---
