@@ -30,10 +30,16 @@ Permite **usar palabras predefinidas o cargarlas desde un archivo externo**.
    ```bash
    git clone https://github.com/<alanaquino72>/juego-ahorcado-java.git
    ```
+
+   ```bash
 2. Compila el archivo Java:
+   ```
+
    ```bash
 javac JuegoAhorcado.java
    ```
+
+
 4. Ejecuta el programa:
    ```bash
 java Ahorcado
@@ -42,9 +48,12 @@ java Ahorcado
 ---
 
 ## Estructura del proyecto
+   ```bash
 juego-ahorcado-java
 ├── JuegoAhorcado.java    # Lógica principal del juego.
 └── README.md             # Documentación del proyecto.
+   ```
+
 
 ---
 
