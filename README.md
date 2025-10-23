@@ -17,7 +17,7 @@ Permite **usar palabras predefinidas o cargarlas desde un archivo externo**.
 
 ## Tecnologías utilizadas
 
-- **Java**:Lógica del juego y flujo principal.  
+- **Java**: Lógica del juego y flujo principal.  
 - **Scanner**: Lectura de entradas del usuario.  
 - **BufferedReader / FileReader**: Carga de palabras desde archivo.  
 - **Colecciones (Set, List)**: Gestión de letras e intentos.
