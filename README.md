@@ -55,7 +55,7 @@ juego-ahorcado-java
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
