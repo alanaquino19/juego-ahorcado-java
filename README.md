@@ -17,10 +17,10 @@ Permite **usar palabras predefinidas o cargarlas desde un archivo externo**.
 
 ## Tecnologías utilizadas
 
-- **Java** → Lógica del juego y flujo principal.  
-- **Scanner** → Lectura de entradas del usuario.  
-- **BufferedReader / FileReader** → Carga de palabras desde archivo.  
-- **Colecciones (Set, List)** → Gestión de letras e intentos.
+- **Java**:Lógica del juego y flujo principal.  
+- **Scanner**: Lectura de entradas del usuario.  
+- **BufferedReader / FileReader**: Carga de palabras desde archivo.  
+- **Colecciones (Set, List)**: Gestión de letras e intentos.
 
 ---
 
@@ -28,7 +28,7 @@ Permite **usar palabras predefinidas o cargarlas desde un archivo externo**.
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/alanaquino72/juego-ahorcado-java.git
+   git clone https://github.com/alanaquino19/juego-ahorcado-java.git
    ```
 
 2. Compila el archivo Java:
